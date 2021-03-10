@@ -1,0 +1,23 @@
+Monday,Building,Room,Time,,Tuesday,Building,Room,Time,,Wednesday,Building,Room,Time,,Thursday,Building,Room,Time,,Friday,Building,Room,Time,,Sat/Sun,Building,Room,Time
+"Aldrich, N",CH,101,3:00-3:55,,"Burger, H",CH,112,3:00-3:55,,"Burger, H",CH,112,3:00-3:55,,"Burger, H",CH,112,3:00-3:55,,"Eggers, E",CH,108,3:00-3:55,,"Daisley, M",CH,104,10-11:55
+"Bonnem, A",CH,132,3:00-5:00,,"Daisley, M",CH,104,3:00-3:55,,"Deng, A",CH,107,3:00-5:00,,"Daisley, M",CH,104,3:00-3:55,,"Hartogenisis, P",CH,112,4:05-5:00,,"Liu, K",CH,104,12:05-2
+"Burger, H",CH,112,3:00-3:55,,"Deng, A",CH,107,3:00-5:00,,"Hartogenisis, P",CH,112,4:05-5:00,,"Lee, A",CH,123,4:05-5:00,,"Hernandez, I",CH,112,3:00-3:55,,"Liu, Clarence",CH,105,10-11:55
+"Daisley, M",CH,104,3:00-3:55,,"Eggers, E",CH,108,3:00-3:55,,"Hernandez, I",CH,108,3:00-3:55,,"Lien, A",CH,124,3:00-3:55,,"Hsueh, D",CH,104,4:05-5:00,,"Ogbuter, C",CH,105,12:05-2
+"Eggers, E",CH,108,3:00-3:55,,"Hartogenisis, P",CH,112,4:05-5:00,,"Hsueh, D",CH,104,4:05-5:00,,"Liu, Cathy",CH,108,3:00-3:55,,"Liu, Cathy",CH,104,3:00-3:55,,"Yildrim, S",CH,106,12:05-2
+"Hartogenisis, P",CH,112,4:05-5:00,,"Korvyakov, M",CH,104,4:05-5:00,,"Liu, K",CH,105,3:00-3:55,,"Liu, Clarence",CH,105,3:00-3:55,,"Liu, Clarence",CH,105,3:00-3:55,,"Deng, A",CH,107,12:05-2
+"Hsueh, D",CH,104,4:05-5:00,,"Lee, A",CH,123,4:05-5:00,,"Madon, N",CH,125,3:00-5:00,,"Madon, N",CH,126,3:00-5:00,,"Madon, N",CH,125,3:00-5:00,,"Siegal, O",CH,107,10-11:55
+"Kim, S",CH,136,3:30-4:25,,"Lien, A",CH,124,3:00-3:55,,"Ogbuter, C",CH,105,4:05-5:00,,"Ogbuter, C",CH,105,4:05-5:00,,"Ogbuter, C",CH,105,4:05-5:00,,"Lin, C",CH,108,10-11:55
+"Lee, A",CH,123,4:05-5:00,,"Liu, Cathy",CH,108,4:05-5:00,,"Su, M",CH,136,3:00-5:00,,"Stuber, J",CH,125,3:00-5:00,,"Robie, M",CH,107,3:00-3:55,,"Liu, Cathy",CH,108,12:05-2
+"Liu, Clarence",CH,105,3:30-4:25,,"Liu, Clarence",CH,105,3:00-3:55,,"Weinstein, C",CH,108,4:05-5:00,,"Su, M",CH,136,3:00-5:00,,"Su, M",CH,136,3:00-5:00,,"Burger, H",CH,112,10-11:55
+"Liu, K",CH,108,4:05-5:00,,"Madon, N",CH,126,3:00-5:00,,"Xu, Max",CH,123,3:00-3:55,,"Weinstein, C",CH,108,4:05-5:00,,"Weinstein, C",CH,108,4:05-5:00,,"Hartogenis, P",CH,112,12:05-2
+"Madon, N",CH,125,3:00-5:00,,"Robie, M",CH,105,4:05-5:00,,"Yildrim, S",CH,106,3:00-3:55,,"Xu, Max",CH,123,3:00-3:55,,"Yildrim, S",CH,106,3:00-3:55,,"Xu, M",CH,123,10-11:55
+"Siegal, O",CH,107,3:00-3:55,,"Stuber, J",CH,125,3:00-5:00,,"Zheng, E",CH,111,3:00-5:00,,"Zheng, E",CH,111,3:00-5:00,,"Zheng, E",CH,111,3:00-5:00,,"Yang, R",CH,124,12:05-2
+"Ogbuter, C",CH,105,4:05-5:00,,"Su, M",CH,136,3:00-5:00,,Harder,PMAC,401,3:00-3:55,,"Harder, B",PMAC,401,3:00-3:55,,"Siegal, O",CH,107,4:05-5:00,,"Stuber, J",CH,125,10-2
+"Robie, M",CH,107,4:05-5:00,,"Xu, Max",CH,123,3:00-3:55,,"Jiang, A",PMAC,RH,3:00-5:00,,"Jiang, A",PMAC,RH,3:00-5:00,,"Harder, B",PMAC,401,3:00-3:55,,"Madon, N",CH,126,10-2
+"Su, M",CH,136,4:05-5:00,,"Yang, R",CH,124,4:05-5:00,,"Maha, A",PMAC,403,3:00-5:00,,"Maha, A",PMAC,403,3:00-5:00,,"Jiang, A",PMAC,RH,3:00-5:00,,"Harder, B",PMAC,401,10-11:55
+"Yang, R",CH,124,4:05-5:00,,"Zheng, E",CH,111,3:00-5:00,,,,,,,,,,,,"Maha, A",PMAC,403,3:00-5:00,,"Maha, A",PMAC,403,12:05-2
+"Zheng, E",CH,111,3:00-5:00,,"Jiang, A",PMAC,RH,3:00-5:00,,,,,,,,,,,,,,,,,"Hernandez, I",PMAC,405,10-11:55
+"Harder, B",PMAC,401,3:00-3:55,,"Maha, A",PMAC,Glass Room,3:00-5:00,,,,,,,,,,,,,,,,,"Weinstein, C",PMAC,405,12:05-2
+"Jiang, A",PMAC,RH,3:30-5:30,,,,,,,,,,,,,,,,,,,,,,"Jiang, A",PMAC,RH,10-2
+"Maha, A",PMAC,403,3:00-5:00,,,,,,,,,,,,,,,,,,,,,,,,,
+"Weinstein, C",PMAC,401,4:05-5:00,,,,,,,,,,,,,,,,,,,,,,,,,
